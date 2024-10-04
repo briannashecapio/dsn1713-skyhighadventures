@@ -3,3 +3,11 @@
         justify-content: space-between;
     }
 }
+
+.nav-link {
+    color: darkblue;
+}
+
+.nav-link active {
+    color: darkblue;
+}
