@@ -11,3 +11,14 @@
 .nav-link active {
     color: darkblue;
 }
+
+.banner-wrapper {
+    align-items: center;
+    background-image: url("../images/mountains.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 500px;
+    justify-content: center;
+  }
