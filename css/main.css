@@ -4,14 +4,6 @@
     }
 }
 
-.nav-link {
-    color: darkblue;
-}
-
-.nav-link active {
-    color: darkblue;
-}
-
 .banner-wrapper {
     align-items: center;
     background-image: url("../images/mountains.jpg");
@@ -19,6 +11,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
-    height: 500px;
+    flex-direction: column;
+    height: 600px;
     justify-content: center;
-  }
+}
